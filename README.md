@@ -9,10 +9,10 @@ Link: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
 ## Performance Comparison
 To ensure the best results, we compared Four different machine learning models:
-Random Forest Classifier
-Logistic Regression
-Multinomial Naive Bayes
-Support Vector Machine (SVM)
+# Random Forest Classifier
+# Logistic Regression
+# Multinomial Naive Bayes
+# Support Vector Machine (SVM)
 
 ## Features
 * **Machine Learning Model:** Random Forest Classifier (95.8% Accuracy).
